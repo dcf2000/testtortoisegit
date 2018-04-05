@@ -1,0 +1,26 @@
+From 06279252731db65ebf6f23bc10b9e30a8a94b671 Mon Sep 17 00:00:00 2001
+From: hellohaha88 <shineyoueveryday@163.com>
+Date: Thu, 5 Apr 2018 20:01:16 +0800
+Subject: [PATCH 2/2] =?UTF-8?q?=E6=B7=BB=E5=8A=A0=E8=A1=A5=E4=B8=81?=
+ =?UTF-8?q?=E6=B5=8B=E8=AF=95?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ Login.java | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/Login.java b/Login.java
+index 74053f7..05f7971 100644
+--- a/Login.java
++++ b/Login.java
+@@ -1 +1,2 @@
+-添加登陆功能
+\ No newline at end of file
++添加登陆功能
++添加补丁功能
+\ No newline at end of file
+-- 
+2.16.2.windows.1
+
